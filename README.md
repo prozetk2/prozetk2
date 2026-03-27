@@ -60,7 +60,7 @@
 
 ## 📫 Contact me
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://prozetk2.github.io/profile_cos_alpha.github.io/)
+[![PROFILE](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://prozetk2.github.io/profile_cos_alpha.github.io/)
 
 
 
