@@ -9,8 +9,6 @@
 
 ---
 
----
-
 ## 🧰 Tech Stack
 
 ### Languages & Frameworks
@@ -27,8 +25,6 @@
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
-
-### Tools & Platforms
 
 ### Tools & Platforms
 <p align="center">
